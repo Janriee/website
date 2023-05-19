@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+body{
+    background-image: url(imgs/bg.jpg);
+}
+
+#loginform{
+    background-color: rgba(0, 0, 0, 0.36);
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border-radius: 10px;
+    top: 130px;
+    left: 32%;
+}
+#loginform h1{
+    position: absolute;
+    font-size: 60px;
+    left: 30%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+    font-weight: 100;
+}
+.username{
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+    position: relative;
+    top: 150px;
+    left: 23%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    
+}
+.password{
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+    position: relative;
+    top: 180px;
+    left: 23%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    
+}
+.conpassword{
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+    position: relative;
+    top: 200px;
+    left: 23%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    
+}
+.header {
+    background-color: #6e53373d;
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
+.btnSignup{
+    color: white;
+    background-color:rgba(0, 0, 0, 0.467);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 40px;
+    width: 180px;
+    height: 60px;
+    position: relative;
+    top: 320px;
+    right: 110px;
+    border-radius: 10px;
+}
+
+#btnback{
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    left: 1600px;
+}
+#btnback:hover{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

@@ -1,0 +1,17 @@
+  
+                  <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                    <div class="position-absolute top-50 start-50 translate-middle w-50 rounded " style="padding: 20px; color: white; background-color: rgba(0, 0, 0, 0.434);">
+                        <br><br>
+
+                        <img src="/imgs/profilepic.jpg" class="rounded mx-auto d-block" alt="...">
+                        <br>
+                       <div class="w-100" style=" padding: 20px 80px 20px 80px; width: 100% ; "> 
+                        <input class="form-control me-2 w-100" style="margin-bottom: 20px;" type="text" placeholder="Name of the Owner(Fullname):">
+                        <input class="form-control me-2 w-100" style="margin-bottom: 20px;" type="text" placeholder="Name of the Pet:">
+                        <input class="form-control me-2" type="text" placeholder="Register Number:">
+                       
+                    
+                    
+                    </div>
+                        
+                      </div>
